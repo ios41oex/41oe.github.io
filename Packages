@@ -1,16 +1,16 @@
 Package: com.41oe.tsumtsum
 Architecture: iphoneos-arm
-Version: 1.89.1
+Version: 1.90.3
 Section: Tweaks
 Maintainer:
-Installed-Size: 384
+Installed-Size: 324
 Depends: mobilesubstrate
-Filename: ./debs/g-1.deb
-Size: 180664
-MD5sum: fc126678088343824c1590648a62ac73
-SHA1: 279c6ee5e2f490e5103007950cec531d042ff624
-SHA256: 7803fc6ebc2984a2d8fd5d3cf05b87d7129e5169f7da328670ab444b5b44e3c2
-SHA512: 6bb0def51986a3e043876befdc37e0cf4ad52b4b6a0ff43431c37984327b21a3cbd1eb2fb8f1ed83ff4930793077a74a753443c97ac94557ce1f9749ef1f660b
+Filename: ./debs/4loeTsum.deb
+Size: 119906
+MD5sum: 17718ba41b6edcacda63c0775884cb66
+SHA1: c5b23281c7b193642785f1ebd960c51155de4450
+SHA256: dc08ff4cb4bec4b258585c95fe9d2a6bc95cd8f7ad574b6dd47672ae0565c506
+SHA512: 9794aeb81a6eff3fd6b42a31d35e6a75f802d653de730086eb5522752ad15c9180cdad516b32a6144b0e8979318b893d49008993cf178b90b3a793ad042bfb83
 Homepage: https://mobile.twitter.com/@ios4loe
 Description:
 Name: TsumTsum Mod Menu
