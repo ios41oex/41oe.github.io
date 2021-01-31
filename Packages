@@ -1,0 +1,20 @@
+Package: com.41oe.tsumtsum
+Architecture: iphoneos-arm
+Version: 1.89.1
+Section: Tweaks
+Maintainer:
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/g-1.deb
+Size: 180664
+MD5sum: fc126678088343824c1590648a62ac73
+SHA1: 279c6ee5e2f490e5103007950cec531d042ff624
+SHA256: 7803fc6ebc2984a2d8fd5d3cf05b87d7129e5169f7da328670ab444b5b44e3c2
+SHA512: 6bb0def51986a3e043876befdc37e0cf4ad52b4b6a0ff43431c37984327b21a3cbd1eb2fb8f1ed83ff4930793077a74a753443c97ac94557ce1f9749ef1f660b
+Homepage: https://mobile.twitter.com/@ios4loe
+Description:
+Name: TsumTsum Mod Menu
+Author:
+Icon: file:////Library/icon/tsummod/AppIcon60x60@2x.png
+Depiction: https://ios41oe.github.io/41oe/index.html
+
